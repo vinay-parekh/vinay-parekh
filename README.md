@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋, I'm Vinay Parekh</h1>
+<h1 align="center">Hey there[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Vinay Parekh</h1>
 <h3 align="justify">I'm an energetic computer science student, with a great passion and aspiration to broaden knowledge and skills. I have a diverse range of interests in various horizons of technology, that drives me to upskill in emerging technologies. As a Bachelors of Technology (B.Tech) student at Rajalakshmi Engineering College, I'm developing a strong foundation in java development, data science and machine learning. I enjoy participating in hackathons and competitions, to network with tech enthusiasts and explore beyond my horizon. "Your feedbacks, are my learning", so feel free to collaborate and reach me out. </h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay-parekh" alt="vinay-parekh" /></a> </p> -->
