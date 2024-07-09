@@ -1,6 +1,6 @@
 <h2 align="center">Hey there👋, My name is Vinay Parekh</h2>
 
-<h3 align="left"><i>I'm an energetic computer science student, with a great passion and aspiration to broaden knowledge and skills. I have a diverse range of interests in various horizons of technology, that drives me to upskill in emerging technologies. As a Bachelors of Technology (B.Tech) student at Rajalakshmi Engineering College, I'm developing a strong foundation in java development, data science and machine learning. I enjoy participating in hackathons and competitions, to network with tech enthusiasts and explore beyond my horizon. "Your feedbacks, are my learning", so feel free to collaborate and reach me out.</i> </h3><br>
+<!--<h3 align="left"><i>I'm an energetic computer science student, with a great passion and aspiration to broaden knowledge and skills. I have a diverse range of interests in various horizons of technology, that drives me to upskill in emerging technologies. As a Bachelors of Technology (B.Tech) student at Rajalakshmi Engineering College, I'm developing a strong foundation in java development, data science and machine learning. I enjoy participating in hackathons and competitions, to network with tech enthusiasts and explore beyond my horizon. "Your feedbacks, are my learning", so feel free to collaborate and reach me out.</i> </h3><br> -->
 
 # 💫 About Me:
 🔭I'm based in Chennai <br>📫 Reach me at vinayparekh.4802@gmail.com<br>
